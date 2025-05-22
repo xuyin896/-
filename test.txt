@@ -1,0 +1,4 @@
+Main topic for the mind map.
+Detail A is a child of the main topic.
+Detail B is another child.
+Sub-detail B1 branches from Detail B.

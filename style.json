@@ -1,0 +1,15 @@
+{
+    "graph": {
+        "bgcolor": "lightgrey",
+        "rankdir": "LR"
+    },
+    "node": {
+        "shape": "ellipse",
+        "fillcolor": "lightyellow",
+        "style": "filled,rounded",
+        "fontname": "Arial"
+    },
+    "edge": {
+        "color": "darkblue"
+    }
+}
